@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  se-spacy-ner-api:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2023-02-13T18:21:07.284361683Z"
+    description: Semantic Spacy NER API
+    digest: 6bb737bdf99cc280bc76e9ca480e32f923c1950579880ba097eafd96e4a64a51
+    name: se-spacy-ner-api
+    urls:
+    - se-spacy-ner-api-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-02-13T18:21:07.28377228Z"
