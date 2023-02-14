@@ -1,0 +1,72 @@
+apiVersion: v1
+entries:
+  kube-metrics-adapter:
+  - apiVersion: v2
+    created: "2023-02-14T15:30:03.98397424Z"
+    description: kube-metrics-adapter helm chart
+    digest: 789a51289f166cac0677ab326f1a485f75a8935034bdb9638f2716b5d31ba603
+    name: kube-metrics-adapter
+    urls:
+    - kube-metrics-adapter-0.1.18.tgz
+    version: 0.1.18
+  se-hierarchy-api:
+  - apiVersion: v1
+    appVersion: v1.5.1_cythonised
+    created: "2023-02-14T15:30:03.985080739Z"
+    description: Semantic Hierarchy Detection Service
+    digest: e946f1888487be5862b6467acbba3cbd3f5a17db073ccac7f57f51aaacf8fb9a
+    name: se-hierarchy-api
+    urls:
+    - se-hierarchy-api-1.0.0.tgz
+    version: 1.0.0
+  se-mq-services:
+  - apiVersion: v1
+    appVersion: 3.0.4159
+    created: "2023-02-14T15:30:03.987107738Z"
+    description: Semantic Message Queue Services Chart
+    digest: d79cef50a7881f3a03ea0f1305e46b7cd4ba18b64a9e71e44557da139f850ab3
+    name: se-mq-services
+    urls:
+    - se-mq-services-1.0.0.tgz
+    version: 1.0.0
+  se-spacy-ner-api:
+  - apiVersion: v1
+    appVersion: 0.0.2
+    created: "2023-02-14T15:30:03.987556638Z"
+    description: Semantic Spacy NER API
+    digest: cbe4c420e82e94750f3402ff4af6e5be4eaa3d6b48c1ec78f6e2ad82142e98ff
+    name: se-spacy-ner-api
+    urls:
+    - se-spacy-ner-api-1.0.0.tgz
+    version: 1.0.0
+  se-tables-classifier-api:
+  - apiVersion: v1
+    appVersion: 1.1.1
+    created: "2023-02-14T15:30:03.987911938Z"
+    description: Semantic Tables Classifier API
+    digest: ac956362d1950383826ad598b37c5b737da59145e3fb171d99dc00528d574ece
+    name: se-tables-classifier-api
+    urls:
+    - se-tables-classifier-api-1.0.0.tgz
+    version: 1.0.0
+  se-tables-mq:
+  - apiVersion: v1
+    appVersion: v20
+    created: "2023-02-14T15:30:03.988972537Z"
+    description: Semantic Table Detection MQ
+    digest: 259c78489aaade29d27a9d0b28d816db5a6ae461630301b6c2ace34c5fd81931
+    name: se-tables-mq
+    urls:
+    - se-tables-mq-1.0.0.tgz
+    version: 1.0.0
+  se-tf-serving:
+  - apiVersion: v1
+    appVersion: B34
+    created: "2023-02-14T15:30:03.989425137Z"
+    description: Semantic TF Serving Service
+    digest: 32972500b4fe1f4ddaa2de3c6ab86cc91a6059ef76224cafb78cf274ebe58df4
+    name: se-tf-serving
+    urls:
+    - se-tf-serving-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-02-14T15:30:03.982238941Z"
