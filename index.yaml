@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   kube-metrics-adapter:
   - apiVersion: v2
-    created: "2023-05-15T14:50:31.397579457Z"
+    created: "2023-05-15T15:46:16.649829292Z"
     description: kube-metrics-adapter helm chart
     digest: 9976ee080c65f2cfd399ce2a448b6b0c5ba229602fa01f8ad14b3203e26bfd59
     name: kube-metrics-adapter
@@ -12,9 +12,9 @@ entries:
   prometheus-rabbitmq-exporter:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2023-05-15T14:50:31.398282154Z"
+    created: "2023-05-15T15:46:16.650614Z"
     description: Rabbitmq metrics exporter for prometheus
-    digest: 016baec5b5d2380d355654e5418ca2b42391f62b1e76e6d34d5362cc89f9e5ec
+    digest: 82e03d69ffa7153dc0e03304451bbd2243acc6cc15eb27f31d3db1710db51697
     home: https://github.com/kbudde/rabbitmq_exporter
     maintainers:
     - email: cedric@desaintmartin.fr
@@ -34,7 +34,7 @@ entries:
   se-hierarchy-api:
   - apiVersion: v1
     appVersion: v1.5.1_cythonised
-    created: "2023-05-15T14:50:31.398574053Z"
+    created: "2023-05-15T15:46:16.650948603Z"
     description: Semantic Hierarchy Detection Service
     digest: e946f1888487be5862b6467acbba3cbd3f5a17db073ccac7f57f51aaacf8fb9a
     name: se-hierarchy-api
@@ -44,7 +44,7 @@ entries:
   se-mq-services:
   - apiVersion: v1
     appVersion: 3.0.4159
-    created: "2023-05-15T14:50:31.400898944Z"
+    created: "2023-05-15T15:46:16.654382536Z"
     description: Semantic Message Queue Services Chart
     digest: 027a3e5fed191a2fd0ba8febd703f1c6c443b2b71903d57b0cfde853a93a75a4
     name: se-mq-services
@@ -53,7 +53,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 3.0.4159
-    created: "2023-05-15T14:50:31.399770548Z"
+    created: "2023-05-15T15:46:16.652096814Z"
     description: Semantic Message Queue Services Chart
     digest: f98ff291757d2fc64d9aad432a665460c3315acaa97eeaaeeac468d7327b65cc
     name: se-mq-services
@@ -63,7 +63,7 @@ entries:
   se-spacy-ner-api:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2023-05-15T14:50:31.401193042Z"
+    created: "2023-05-15T15:46:16.65482354Z"
     description: Semantic Spacy NER API
     digest: cbe4c420e82e94750f3402ff4af6e5be4eaa3d6b48c1ec78f6e2ad82142e98ff
     name: se-spacy-ner-api
@@ -73,7 +73,7 @@ entries:
   se-tables-mq:
   - apiVersion: v1
     appVersion: v20
-    created: "2023-05-15T14:50:31.402883836Z"
+    created: "2023-05-15T15:46:16.657063061Z"
     description: Semantic Table Detection MQ
     digest: 6b362cee22408e2df89bfdcd396ae292ba924ca0d7d3b2bc77ddbbe75cd4655a
     name: se-tables-mq
@@ -82,7 +82,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: v20
-    created: "2023-05-15T14:50:31.402043139Z"
+    created: "2023-05-15T15:46:16.656180553Z"
     description: Semantic Table Detection MQ
     digest: 259c78489aaade29d27a9d0b28d816db5a6ae461630301b6c2ace34c5fd81931
     name: se-tables-mq
@@ -92,11 +92,11 @@ entries:
   se-tf-serving:
   - apiVersion: v1
     appVersion: B34
-    created: "2023-05-15T14:50:31.403202634Z"
+    created: "2023-05-15T15:46:16.657436565Z"
     description: Semantic TF Serving Service
     digest: 32972500b4fe1f4ddaa2de3c6ab86cc91a6059ef76224cafb78cf274ebe58df4
     name: se-tf-serving
     urls:
     - se-tf-serving/se-tf-serving-1.0.0.tgz
     version: 1.0.0
-generated: "2023-05-15T14:50:31.396670061Z"
+generated: "2023-05-15T15:46:16.648825283Z"
